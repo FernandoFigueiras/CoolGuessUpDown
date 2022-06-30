@@ -10,5 +10,7 @@ namespace CoolGuessUpDown.Api.Controllers
         {
             return View();
         }
+
+        public 
     }
 }
