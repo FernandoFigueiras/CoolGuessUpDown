@@ -6,12 +6,8 @@ using System.Threading.Tasks;
 
 namespace CoolGuessUpDown.Core.Entities
 {
-    public class Card : IEntity
+    public class GamePlay : IEntity
     {
         public int Id { get; set; }
-
-        public string? Suit { get; set; }
-
-        public string? Rank { get; set; }
     }
 }

@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoolGuessUpDown.Api", "Cool
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoolGuessUpDown.Core", "CoolGuessUpDown.Core\CoolGuessUpDown.Core.csproj", "{7E4004C2-6C17-46FD-92C0-D83BB0AEC833}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoolGuessUpDown.Infrastructure", "CoolGuessUpDown.Infrastructure\CoolGuessUpDown.Infrastructure.csproj", "{36F50DF6-ED6C-475D-82F9-8D841C86B681}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7E4004C2-6C17-46FD-92C0-D83BB0AEC833}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E4004C2-6C17-46FD-92C0-D83BB0AEC833}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E4004C2-6C17-46FD-92C0-D83BB0AEC833}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36F50DF6-ED6C-475D-82F9-8D841C86B681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36F50DF6-ED6C-475D-82F9-8D841C86B681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36F50DF6-ED6C-475D-82F9-8D841C86B681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36F50DF6-ED6C-475D-82F9-8D841C86B681}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
